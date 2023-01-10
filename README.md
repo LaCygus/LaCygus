@@ -1,7 +1,7 @@
 ### Hi there 👋 I am </b>Data Science<b> student in UCSD
 
 ###Skills
-<img src="https://img.shields.io/badge/Android-3776AB?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Android&logoColor=white"/>
 
 
 <!--
