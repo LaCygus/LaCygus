@@ -1,4 +1,4 @@
-### Hi there 👋 I am Data Science student in UCSD
+### Hi there 👋 I am </b> Data Science<b> student in UCSD
 
 
 
