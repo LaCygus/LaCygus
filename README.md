@@ -15,5 +15,3 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to uncover in
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or want to collaborate on exciting data projects!
 
 📫 **How to Reach Me:** You can contact me at sungjinchoi5790@gmail.com or connect with me on [[LinkedIn](https://www.linkedin.com/in/sungjin-choi-b00179258/)].
-
-⚡ **Fun Fact:** When I'm not crunching data, I enjoy [insert a fun fact about yourself].
